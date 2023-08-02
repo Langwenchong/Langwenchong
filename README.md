@@ -3,6 +3,7 @@
 **<p align="center">📢纵有疾风起，人生不言弃 | Le vent se lève, il faut tenter de vivre🏃<p>**
 <div>
     <img src="./img/githubavatar.jfif" alt="githubavatar" width="30%" align="right"/>
+    
 ### 👋 关于我 | Player
 
 - 🌏️某不知名大专大数据专业研一在读生一枚
