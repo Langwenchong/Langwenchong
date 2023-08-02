@@ -1,7 +1,8 @@
 <p align="center"><img width="80%" src="./img/banner.png" /></a></p>
 
 **<p align="center">📢纵有疾风起，人生不言弃 | Le vent se lève, il faut tenter de vivre🏃<p>**
-
+<div>
+    <img src="./img/githubavatar.jfif" alt="githubavatar" width="30%" align="right"/>
 ### 👋 关于我 | Player
 
 - 🌏️某不知名大专大数据专业研一在读生一枚
@@ -9,6 +10,7 @@
 - 💬 建立羁绊：1422257646@qq.com
 - ⭐ 个人博客：🈺[coolchong.cn](https://coolchong.cn)
 - 😋 杂食动物：🥤肥宅快乐水&&🎮️菜还爱玩&&🎸能谈响就行
+</div>
 
 ### ⚒️ 技能树 | Stack
 
